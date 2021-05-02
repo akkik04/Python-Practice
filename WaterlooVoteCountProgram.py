@@ -28,13 +28,3 @@ elif count_of_b > count_of_a:
 else:
 
     print("Tie")
-
-
-
-
-
-
-        
-
-
-
