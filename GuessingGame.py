@@ -18,15 +18,3 @@ if user_num == random_num:
     print("You Won!")
 else:
     print("Better luck next time.")
-
-
-
-
-
-
-
-
-
-
-
-
