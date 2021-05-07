@@ -1,2 +1,2 @@
 # Python-Projects
-Collection of Python Projects I did while learning the syntax.
+- Collection of a few simple Python projects I did while learning the syntax.
